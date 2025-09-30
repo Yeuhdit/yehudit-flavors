@@ -1,0 +1,9 @@
+# תיקיות שלא עולות
+node_modules/
+dist/
+build/
+
+# קבצים שלא עולים
+.env
+npm-debug.log
+yarn-error.log
